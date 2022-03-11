@@ -1,0 +1,13 @@
+p {
+	color: red;
+	background-color: black;
+}
+
+img {
+	width: 500px;
+}
+
+h1 {
+	font-family: Arial, sans-serif;
+	text-transform: uppercase;
+}
